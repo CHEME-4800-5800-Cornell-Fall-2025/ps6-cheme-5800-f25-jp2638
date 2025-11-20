@@ -1,5 +1,3 @@
-# to committ and push
-
 # setup paths -
 const _ROOT = @__DIR__
 const _PATH_TO_SRC = joinpath(_ROOT, "src");
@@ -21,6 +19,7 @@ using DataFrames
 using PrettyTables
 using Random
 using Test
+using VLDataScienceMachineLearningPackage
 
 # Set the random seed for reproducibility -
 # Random.seed!(1234); # set the random seed for reproducibility
