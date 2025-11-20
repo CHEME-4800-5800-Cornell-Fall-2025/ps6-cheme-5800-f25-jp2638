@@ -1,3 +1,5 @@
+# to committ and push
+
 # setup paths -
 const _ROOT = @__DIR__
 const _PATH_TO_SRC = joinpath(_ROOT, "src");
